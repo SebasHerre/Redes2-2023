@@ -1,1 +1,3 @@
-# Redes2-TP1-2023
+# Redes2-2023
+Embeddings pertenece al TP1 de esta materia
+Attention al TP2
